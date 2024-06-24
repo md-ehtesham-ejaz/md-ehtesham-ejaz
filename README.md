@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Ehtesham 👋
 
-<!--
-**md-ehtesham-ejaz/md-ehtesham-ejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **B.Tech in Information Technology** at Bengal College of Engineering and Technology, Durgapur
 
-Here are some ideas to get you started:
+## 💻 Favorite Language
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Interests
+- Machine Learning
+- Artificial Intelligence
+
+## 🌱 Currently Learning
+- Advanced Machine Learning Algorithms
+- AI Development
+
+## 🔗 Connect with Me
+- Gmail: mdehteshamejazofficial@gmail.com
